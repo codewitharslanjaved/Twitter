@@ -3,7 +3,7 @@
 🚧 **Work in Progress** — A **Twitter-inspired UI clone** built with ⚡ **Next.js + Tailwind CSS**.
 Currently **frontend-only**, featuring clean layouts, responsive design 📱, and support for **light 🌞 & dark 🌙 themes**.
 
-🌐 **Live Demo:** [twitter-clone](https://twitteruiweb.vercel.app)
+🌐 **Live Demo:** [twitter-clone](https://twitter-ui-web.vercel.app)
 💻 **Source Code:** [GitHub Repo](https://github.com/codewitharslanjaved/Twitter)
 
 ---
@@ -23,11 +23,17 @@ Currently **frontend-only**, featuring clean layouts, responsive design 📱, an
 
 ### 🌞 Light Mode
 
-![Light Mode Preview](public/assets/light-mode.png)
+![Light Mode Preview](https://github.com/codewitharslanjaved/Twitter/blob/main/Twitter%20UI%20Light%20Mode.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode Preview](public/assets/dark-mode.png)
+![Dark Mode Preview](https://github.com/codewitharslanjaved/Twitter/blob/main/Twitter%20Ui%20Dark%20Mode.png)
+
+---
+
+### 🧒 Profile View
+
+![Profile Preview](https://github.com/codewitharslanjaved/Twitter/blob/main/Twitter%20UI%20Profile%20Page.png)
 
 ---
 
